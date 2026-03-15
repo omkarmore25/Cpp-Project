@@ -968,7 +968,6 @@ int main()
             break;
         default:
             cout << "INVALID OPTION";
-            break;
         }
     }
 
